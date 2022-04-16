@@ -93,7 +93,7 @@
                 <a class="nav-link" href="https://discovernci.org">Learn more about Nature's Classroom</a>
             </li>
             <li class="nav-item">
-                <a class="btn btn-success" href="/step-1">Purchase Tickets</a>
+                <a class="btn btn-success" href="https://www.eventcreate.com/e/ditw22">Purchase Tickets</a>
             </li>
         </ul>
     </div>
